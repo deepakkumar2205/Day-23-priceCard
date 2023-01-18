@@ -24,7 +24,7 @@ const Cardbody = (props)=>{
     textClass.push("done")
   }
     return (
-        <Card style={{ width: '100%' }}>
+        <Card  className='cardCustom'>
           <Card.Body>
         <div class="a col-lg-4">
         <div class="card mb-5 mb-lg-0">

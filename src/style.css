@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(to right, #0062E6, #33AEFF);
+    background: #086dea;
   }
   @media (min-width: 1400px){.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
       max-width: 1320px;
@@ -11,8 +11,8 @@ body{
   
   
       section.pricing {
-        background: #007bff;
-        background: linear-gradient(to right, #0062E6, #33AEFF);
+        background: #086dea;
+        /* background: linear-gradient(to right, #0062E6, #33AEFF); */
       }
       
       .pricing .card {
